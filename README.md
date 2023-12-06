@@ -136,7 +136,9 @@ Your second task is to conceptualize, design, and outline the development proces
    - **Answer**: Feel free to use credible sources like research papers, market reports, and linguistic studies for understanding the Nigerian market.
 
 # Troubleshooting & Support
-Test@Awarri.com
+Email both:
+Silas@awarri.com
+Chris@awarri.com
 
 # Terms & Conditions for Interview Tests
 
