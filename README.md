@@ -1,8 +1,6 @@
 <p align="center">
-<img src=https://via.placeholder.com/150/>
+<img src=https://static1.squarespace.com/static/5da5d537874e8c5ee9565ad0/t/5ef882a3e30e714667e7935e/1593344682130/Awarri_Horizontal+Logo+Lockup_Red+-+edit.png?format=1500w>
 </p>
-
-***Replace any content text in bold.***
 
 # Test Introduction
 
